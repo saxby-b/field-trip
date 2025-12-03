@@ -1,1 +1,1 @@
-Check to see who still needs to register for the field trip!
+A list of all the children that still need to register for the upcoming field trip. 
